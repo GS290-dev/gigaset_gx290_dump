@@ -1,0 +1,9 @@
+<?xml version='1.0' encoding='utf-8'?>
+ 
+<voicemail>
+ 
+<voicemail numeric="26202" carrier="VODAFONE" vmnumber="5500" vmtag="Vodafone voicemail" />
+<voicemail numeric="26207" carrier="O2" vmnumber="333" vmtag="O2 voicemail" />
+<voicemail numeric="26201" carrier="Telekom" vmnumber="3311" vmtag="Telekom voicemail" />
+ 
+</voicemail>
