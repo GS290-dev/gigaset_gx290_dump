@@ -1,0 +1,15 @@
+﻿Created by Infinity-Box (c) 2020
+Chinese Miracle II : MediaTek Service Module
+Device Info file   : _Android_info.txt
+
+Patch Level    : QP1A.190711.020
+Display ID     : Gigaset_GX290_10.0_V11_20200813
+Ver. CodeName  : REL
+Ver. Release   : 10
+Sec. Patch     : 2020-07-05
+Build Time     : 1597289603
+Product Info   : GX290
+Product Board  : k63v2_64_bsp
+Board Platform : mt6763
+Display ID     : Gigaset_GX290_10.0_V11_20200813
+
