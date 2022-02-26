@@ -1,0 +1,14 @@
+# full_k63v2_64_bsp-user 10 QP1A.190711.020 1638413476 release-keys
+- manufacturer: 
+- platform: mt6763
+- codename: GX290
+- flavor: full_k63v2_64_bsp-user
+- release: 10
+- id: QP1A.190711.020
+- incremental: 1638413476
+- tags: release-keys
+- fingerprint: Gigaset/GX290_EEA/GX290:10/QP1A.190711.020/1638413476:user/release-keys
+- is_ab: false
+- brand: Gigaset
+- branch: full_k63v2_64_bsp-user-10-QP1A.190711.020-1638413476-release-keys
+- repo: gigaset_gx290_dump
